@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cultura Brasileira</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h2>Cultura Brasileira</h2>
+  </header>
+
+  <nav>
+    <a href="index.html">Início</a>
+    <a href="flora.html">Flora</a>
+    <a href="cultura.html">Cultura</a>
+    <a href="turismo.html">Turismo</a>
+    <a href="comidas.html">Comidas</a>
+  </nav>
+
+  <div class="banner">
+    <img src="02b1ce0e-bc44-48b6-96ab-0ac00e4cd9a7.png" alt="Cultura Brasileira">
+    <div class="banner-texto">
+      <h1>Cultura Brasileira</h1>
+    </div>
+  </div>
+
+  <main>
+    <p>A cultura brasileira é diversa e resultado da mistura de influências indígenas, africanas e europeias. Essa pluralidade se manifesta na música, na dança, na culinária e nas festas populares como o carnaval e as festas juninas.</p>
+    <p>Na literatura e nas artes, nomes como Machado de Assis, Jorge Amado, Tarsila do Amaral e Oscar Niemeyer marcaram a identidade cultural do país.</p>
+  </main>
+
+  <footer>
+    <p>© 2025 - Conhecendo o Brasil</p>
+  </footer>
+</body>
+</html>
+
