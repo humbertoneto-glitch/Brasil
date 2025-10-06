@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flora Brasileira</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h2>Flora Brasileira</h2>
+  </header>
+
+  <nav>
+    <a href="index.html">Início</a>
+    <a href="flora.html">Flora</a>
+    <a href="cultura.html">Cultura</a>
+    <a href="turismo.html">Turismo</a>
+    <a href="comidas.html">Comidas</a>
+  </nav>
+
+  <div class="banner">
+    <img src="41576cc3-bbce-45e6-9602-79a6a7cd9b54.png" alt="Flora do Brasil">
+    <div class="banner-texto">
+      <h1>Flora Brasileira</h1>
+    </div>
+  </div>
+
+  <main>
+    <p>A flora brasileira é considerada uma das mais ricas do mundo, reunindo cerca de 50 mil espécies de plantas, muitas endêmicas. Na Amazônia, destacam-se árvores como a castanheira e a seringueira; na Mata Atlântica, o pau-brasil e as bromélias; no Cerrado, espécies resistentes como o pequizeiro e o buriti.</p>
+    <p>A flora é essencial para o equilíbrio ecológico, a economia e a cultura brasileira, sendo símbolo de identidade nacional.</p>
+  </main>
+
+  <footer>
+    <p>© 2025 - Conhecendo o Brasil</p>
+  </footer>
+</body>
+</html>
