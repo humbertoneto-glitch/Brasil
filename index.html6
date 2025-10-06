@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Comidas Típicas</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h2>Comidas Típicas</h2>
+  </header>
+
+  <nav>
+    <a href="index.html">Início</a>
+    <a href="flora.html">Flora</a>
+    <a href="cultura.html">Cultura</a>
+    <a href="turismo.html">Turismo</a>
+    <a href="comidas.html">Comidas</a>
+  </nav>
+
+  <div class="banner">
+    <img src="d1f861f68aba8ab2bfe03c2e.png" alt="Comidas típicas do Brasil">
+    <div class="banner-texto">
+      <h1>Comidas Típicas do Brasil</h1>
+    </div>
+  </div>
+
+  <main>
+    <p>O Brasil é conhecido por sua culinária variada e saborosa. Pratos como feijoada, acarajé, moqueca, churrasco e tapioca são alguns dos mais tradicionais. Cada região do país tem seus sabores e ingredientes típicos, refletindo a diversidade cultural brasileira.</p>
+  </main>
+
+  <footer>
+    <p>© 2025 - Conhecendo o Brasil</p>
+  </footer>
+</body>
+</html>
+
