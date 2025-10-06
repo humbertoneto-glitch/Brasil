@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pontos Turísticos</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h2>Pontos Turísticos</h2>
+  </header>
+
+  <nav>
+    <a href="index.html">Início</a>
+    <a href="flora.html">Flora</a>
+    <a href="cultura.html">Cultura</a>
+    <a href="turismo.html">Turismo</a>
+    <a href="comidas.html">Comidas</a>
+  </nav>
+
+  <div class="banner">
+    <img src="f486dcdc-616f-4faa-9a37-da15c5d88c96.png" alt="Pontos Turísticos do Brasil">
+    <div class="banner-texto">
+      <h1>Pontos Turísticos</h1>
+    </div>
+  </div>
+
+  <main>
+    <ul>
+      <li><b>Cristo Redentor (RJ)</b> – uma das sete maravilhas do mundo moderno.</li>
+      <li><b>Pão de Açúcar (RJ)</b> – cartão-postal com vista panorâmica do Rio.</li>
+      <li><b>Pantanal (MS/MT)</b> – maior área alagável do planeta, rica em fauna e flora.</li>
+      <li><b>Lençóis Maranhenses (MA)</b> – dunas e lagoas cristalinas.</li>
+      <li><b>Gramado (RS)</b> – cidade turística famosa pelo clima europeu e o Natal Luz.</li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>© 2025 - Conhecendo o Brasil</p>
+  </footer>
+</body>
+</html>
+
