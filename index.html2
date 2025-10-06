@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Conhecendo o Brasil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h2>Conhecendo o Brasil</h2>
+  </header>
+
+  <nav>
+    <a href="index.html">Início</a>
+    <a href="flora.html">Flora</a>
+    <a href="cultura.html">Cultura</a>
+    <a href="turismo.html">Turismo</a>
+    <a href="comidas.html">Comidas</a>
+  </nav>
+
+  <div class="banner">
+    <img src="14562d6d-0630-4ce8-a3d8-511f6a24dfb9.png" alt="Cristo Redentor">
+    <div class="banner-texto">
+      <h1>Conhecendo o Brasil</h1>
+      <p>Nesta página você vai conhecer mais sobre o Brasil:<br>
+      Pontos turísticos, comidas típicas, fauna, marcas e criações do país.</p>
+      <p><strong>Por: Humberto Queiróz, Davi Nunes e Guilherme Ferreira</strong></p>
+    </div>
+  </div>
+
+  <footer>
+    <p>© 2025 - Conhecendo o Brasil</p>
+  </footer>
+</body>
+</html>
